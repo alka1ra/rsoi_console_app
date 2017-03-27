@@ -1,0 +1,6 @@
+D:\workspace\c_sharp\rsoi\lab5\ConsoleApplicationStudents\ConsoleApplicationStudents\bin\Debug\ConsoleApplicationStudents.exe.config
+D:\workspace\c_sharp\rsoi\lab5\ConsoleApplicationStudents\ConsoleApplicationStudents\bin\Debug\ConsoleApplicationStudents.exe
+D:\workspace\c_sharp\rsoi\lab5\ConsoleApplicationStudents\ConsoleApplicationStudents\bin\Debug\ConsoleApplicationStudents.pdb
+D:\workspace\c_sharp\rsoi\lab5\ConsoleApplicationStudents\ConsoleApplicationStudents\obj\Debug\ConsoleApplicationStudents.csprojResolveAssemblyReference.cache
+D:\workspace\c_sharp\rsoi\lab5\ConsoleApplicationStudents\ConsoleApplicationStudents\obj\Debug\ConsoleApplicationStudents.exe
+D:\workspace\c_sharp\rsoi\lab5\ConsoleApplicationStudents\ConsoleApplicationStudents\obj\Debug\ConsoleApplicationStudents.pdb

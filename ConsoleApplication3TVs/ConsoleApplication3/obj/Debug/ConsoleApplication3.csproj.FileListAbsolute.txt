@@ -1,0 +1,12 @@
+D:\workspace\c_sharp\rsoi\lab5\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\workspace\c_sharp\rsoi\lab5\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\workspace\c_sharp\rsoi\lab5\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\workspace\c_sharp\rsoi\lab5\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\workspace\c_sharp\rsoi\lab5\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\workspace\c_sharp\rsoi\lab5\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\workspace\c_sharp\rsoi\lab5\ConsoleApplication3TVs\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\workspace\c_sharp\rsoi\lab5\ConsoleApplication3TVs\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\workspace\c_sharp\rsoi\lab5\ConsoleApplication3TVs\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\workspace\c_sharp\rsoi\lab5\ConsoleApplication3TVs\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\workspace\c_sharp\rsoi\lab5\ConsoleApplication3TVs\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\workspace\c_sharp\rsoi\lab5\ConsoleApplication3TVs\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
